@@ -1,4 +1,4 @@
-# DetectionLife-threateningSituationsVisualMotionAnalysis
+# Detection of life-threatening situations by Visual Motion Analysis
 
 
 The extensive use of cameras in public areas and the development of Computer Vision techniques have been crucial for the deployment of systems able to detect life-threatening situations in real-time. The massive volume of data from cameras that are required to analyze in real-time makes the task impossible for human operators and requires the development of systems that can automatically detect such situations using robust and reliable approaches. 
